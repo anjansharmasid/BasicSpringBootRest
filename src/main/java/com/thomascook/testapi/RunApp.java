@@ -36,10 +36,10 @@ public class RunApp {
 		
 		// Change this accordingly 
 		String urlPost = new String("http://communication-api-integration.integration.thomascook.io:8000/mail/hotel-everywhere-user-account-create");
-		String from="anjan.sharma@thomascook.com";
-		String to="anjansharmasid@gmail.com";
+		String from="me@gmail.com";
+		String to="you@gmail.com";
 		String subject="Test email";
-		String name="Anjan";
+		String name="Me";
 		String login_url="www.google.com";
 		String message="Test Message";
 		String goodbyemessage="Test goodbye message";
