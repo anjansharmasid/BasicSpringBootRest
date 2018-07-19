@@ -25,7 +25,8 @@ public class TestApi {
 	
 	@RequestMapping("/")
 	String home() {
-		String message= "Application is working, call http://localhost:8080/sendemail to send email";
+		String message= "Application is working, call 
+http://localhost:8080/test/sendemail to send email";
 		return message;
 	}
 
